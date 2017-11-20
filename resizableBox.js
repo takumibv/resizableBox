@@ -2,7 +2,6 @@
 * http://webnonotes.com/javascript-2/funcresizebox/
 **/
 
-const $ = require('jquery');
 (function($) {
   $.fn.resizableBox = function(userOptions) {
     var elements = this;
